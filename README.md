@@ -34,7 +34,7 @@ A showcase of my web development skills with an interactive and modern portfolio
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/interactive-portfolio.git`
+1. Clone the repository: `git clone https://github.com/AbhishekShrivastav73/Rejouice.git`
 2. Open `index.html` in your preferred browser.
 
 
