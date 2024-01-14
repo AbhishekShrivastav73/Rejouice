@@ -45,4 +45,4 @@ Contributions are welcome!
 
 ---
 
-Make sure to replace the placeholder links, names, and other details with your actual project information. Additionally, consider creating a `CONTRIBUTING.md` file if you have specific guidelines for contributors.
+Make sure to replace the placeholder links, names, and other details with your actual project information. Additionally, consider creating a `CONTRIBUTING.md` file if you have specific guidelines for contributors..
