@@ -1,5 +1,5 @@
 
-# REJOUICE WEBSITE CLONE 
+# REJOUICE WEBSITE CLONE .
 
 🌐 **A Stunning and Interactive Clone Website**
 
